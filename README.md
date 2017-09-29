@@ -3,7 +3,7 @@
 # 开发中工具类集合
 
 ## LayoutButton 
-### useage
+### usage
 
 ```
 // 图片+文字按钮
